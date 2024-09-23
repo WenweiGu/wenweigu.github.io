@@ -34,6 +34,7 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 
   Details will coming soon.
 
+
 * `ISSRE'24` **KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems**.
 
   **Wenwei Gu**, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang and Michael Lyu
@@ -41,6 +42,7 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
   In *Proceedings of the 35th International Symposium on Software Reliability Engineering (ISSRE)*, October 2024
 
   Details will coming soon.
+
 
 * `AAAI'24` **Curvature-Invariant Adversarial Attacks for 3D Point Clouds**.
 
@@ -73,8 +75,8 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 - *09/2018* Excellent Student Cadre, Huazhong University of Science and Technology
 
 # 📖 Educations
-![CUHK Logo](https://wenweigu.github.io/images/CUHK.png) *08/2021 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
-![HUST Logo](https://wenweigu.github.io/images/HUST.png) *09/2017 - 06/2021*, B.S. in Electronic Information Engineering (Excellent Plan Class), Huazhong University of Science and Technology, Wuhan, China 
+![CUHK Logo](https://wenweigu.github.io/images/CUHK.png){:width="50" height="50"} *08/2021 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
+![HUST Logo](https://wenweigu.github.io/images/HUST.png){:width="50" height="50"} *09/2017 - 06/2021*, B.S. in Electronic Information Engineering (Excellent Plan Class), Huazhong University of Science and Technology, Wuhan, China 
 
 # 💬 Teaching Assistant
 - *Spring, 2023*, ENGG2780A/ESTR2020: Statistics for Engineers
