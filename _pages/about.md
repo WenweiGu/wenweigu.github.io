@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final year Ph.D. student in Department of Computer Science and Engineering, The Chinese University of Hong Kong, supervised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). Previously, I obtained my Bachelor's degree from Huazhong University of Science and Technology, in 2021. My research focuses on **reliability engineering in cloud systems and LLM systems** based on observability data, especially performance monitoring metrics. Please feel free to drop me an email [contact me](mailto:wwgu21@cse.cuhk.edu.hk) if you are interested in my research topics. 🥷
+I am a final year Ph.D. student at Department of Computer Science and Engineering, The Chinese University of Hong Kong, supervised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). Previously, I obtained my Bachelor's degree from Huazhong University of Science and Technology, in 2021. My research focuses on **reliability engineering in cloud systems and LLM systems** based on observability data, especially performance monitoring metrics. 
+
+Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are interested in my research topics. 🥷
 
 
 # 🔥 News
@@ -70,8 +72,8 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 
 
 # 🥇 Honors and Awards
-- Distinguished Undergraduate Thesis Award, Huazhong University of Science and Technology *2021*
-- National Scholarship, Ministry of Education of the People's Republic of China *2019*
+- Distinguished Undergraduate Thesis Award, Huazhong University of Science and Technology, *2021*
+- National Scholarship, Ministry of Education of the People's Republic of China, *2019*
 - Merit Student Award, Huazhong University of Science and Technology, *2019*
 - First Price, The Chinese Mathematics Competitions, China Society for Industrial and Applied Mathematics, *2018*
 - Excellent Student Cadre Award, Huazhong University of Science and Technology, *2018* 
