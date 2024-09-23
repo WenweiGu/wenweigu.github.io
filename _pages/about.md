@@ -76,9 +76,9 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 - *09/2018* Excellent Student Cadre Award, Huazhong University of Science and Technology
 
 # 📖 Educations
-    ![CUHK Logo](https://wenweigu.github.io/images/CUHK.png){:width="30" height="30"} *08/2021 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
+  ![CUHK Logo](https://wenweigu.github.io/images/CUHK.png){:width="30" height="30"} *08/2021 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
 
-    ![HUST Logo](https://wenweigu.github.io/images/HUST.png){:width="30" height="30"} *09/2017 - 06/2021*, B.S. in Electronic Information Engineering (Excellent Plan Class), Huazhong University of Science and Technology, Wuhan, China 
+  ![HUST Logo](https://wenweigu.github.io/images/HUST.png){:width="30" height="30"} *09/2017 - 06/2021*, B.S. in Electronic Information Engineering (Excellent Plan Class), Huazhong University of Science and Technology, Wuhan, China 
 
 # 💬 Teaching Assistant
 - *Spring, 2023*, ENGG2780A/ESTR2020: Statistics for Engineers
