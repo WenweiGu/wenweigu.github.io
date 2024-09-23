@@ -28,7 +28,7 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 
 * `TOSEM'24` **Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features**.
 
-  **Wenwei Gu**, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, Yuxin Su, Jiazhen Gu, Cong feng, Zengyin Yang, Yongqiang Yang and Michael Lyu.
+  **Wenwei Gu**, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, Yuxin Su, Jiazhen Gu, Cong feng, Zengyin Yang, Yongqiang Yang and Michael Lyu
 
   In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, September, 2024
 
@@ -50,7 +50,7 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 
   In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, Volume 38, Number 7, February 2024
 
-  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28542)]
+  [[Paper](https://wenweigu.github.io/publications/aaai24/aaai24.pdf)]
   [[Code](https://github.com/curvature-invariant/curvature-invariant)]
   [[DOI](https://doi.org/10.1609/aaai.v38i7.28542)]
   [[BibTex](https://wenweigu.github.io/publications/aaai24/aaai24-bibtex.txt)]
@@ -62,21 +62,23 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 
   In *IEEE Transactions on Software Engineering (TSE)*, Volume 49, Issue 4, April 2023
 
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/9851934)]
+  [[Paper](https://wenweigu.github.io/publications/tse22/tse22.pdf)]
   [[Code](https://github.com/JohnnyPeng18/APIBench)]
   [[DOI](https://doi.org/10.1109/TSE.2022.3197063)]
   [[BibTex](https://wenweigu.github.io/publications/tse22/tse22-bibtex.txt)]
 
 
 # 🥇 Honors and Awards
-- *06/2021* Excellent Undergraduate Thesis Award, Huazhong University of Science and Technology
+- *06/2021* Distinguished Undergraduate Thesis Award, Huazhong University of Science and Technology
 - *09/2019* National Scholarship, Ministry of Education of the People's Republic of China
+- *09/2019* Merit Student Award, Huazhong University of Science and Technology
 - *12/2018* First Price, The Chinese Mathematics Competitions, China Society for Industrial and Applied Mathematics
-- *09/2018* Excellent Student Cadre, Huazhong University of Science and Technology
+- *09/2018* Excellent Student Cadre Award, Huazhong University of Science and Technology
 
 # 📖 Educations
-![CUHK Logo](https://wenweigu.github.io/images/CUHK.png){:width="50" height="50"} *08/2021 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
-![HUST Logo](https://wenweigu.github.io/images/HUST.png){:width="50" height="50"} *09/2017 - 06/2021*, B.S. in Electronic Information Engineering (Excellent Plan Class), Huazhong University of Science and Technology, Wuhan, China 
+![CUHK Logo](https://wenweigu.github.io/images/CUHK.png){:width="20" height="20"} *08/2021 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
+
+![HUST Logo](https://wenweigu.github.io/images/HUST.png){:width="20" height="20"} *09/2017 - 06/2021*, B.S. in Electronic Information Engineering (Excellent Plan Class), Huazhong University of Science and Technology, Wuhan, China 
 
 # 💬 Teaching Assistant
 - *Spring, 2023*, ENGG2780A/ESTR2020: Statistics for Engineers
@@ -89,4 +91,4 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 
 
 # 💻 Internships
-- *01/2022 - present*, [Huawei Cloud](https://www.huaweicloud.com/), Shenzhen, China.
+- *01/2022 - present*, [Huawei Cloud](https://www.huaweicloud.com/), Shenzhen, China
