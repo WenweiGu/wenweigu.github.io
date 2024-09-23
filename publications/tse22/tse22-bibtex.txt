@@ -1,0 +1,10 @@
+@article{peng2022revisiting,
+  title={Revisiting, benchmarking and exploring API recommendation: How far are we?},
+  author={Peng, Yun and Li, Shuqing and Gu, Wenwei and Li, Yichen and Wang, Wenxuan and Gao, Cuiyun and Lyu, Michael R},
+  journal={IEEE Transactions on Software Engineering},
+  volume={49},
+  number={4},
+  pages={1876--1897},
+  year={2022},
+  publisher={IEEE}
+}

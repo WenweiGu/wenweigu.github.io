@@ -1,0 +1,9 @@
+@inproceedings{zhang2024curvature,
+  title={Curvature-Invariant Adversarial Attacks for 3D Point Clouds},
+  author={Zhang, Jianping and Gu, Wenwei and Huang, Yizhan and Jiang, Zhihan and Wu, Weibin and Lyu, Michael R},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={7},
+  pages={7142--7150},
+  year={2024}
+}

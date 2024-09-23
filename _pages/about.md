@@ -17,42 +17,74 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a final year Ph.D. student in Department of Computer Science and Engineering, The Chinese University of Hong Kong, supervised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). Previously, I obtained my Bachelor's degree from Huazhong University of Science and Technology, in 2021. My research focuses on **reliability engineering in cloud systems and LLM systems** based on observability data, especially performance monitoring metrics. Please feel free to drop me an email [contact me](mailto:wwgu21@cse.cuhk.edu.hk) if you are interested in my research topics. 🥷
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *09/2024*: One paper was accepted to TOSEM (Journal-first Paper). 🎉 
+- *07/2024*: One paper was accepted to ISSRE 2024 (Research Track). 🎉 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+* `TOSEM'24` **Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features**.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  **Wenwei Gu**, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, Yuxin Su, Jiazhen Gu, Cong feng, Zengyin Yang, Yongqiang Yang and Michael Lyu.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, September, 2024
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+  Details will coming soon.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+* `ISSRE'24` **KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems**.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  **Wenwei Gu**, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang and Michael Lyu
+
+  In *Proceedings of the 35th International Symposium on Software Reliability Engineering (ISSRE)*, October 2024
+
+  Details will coming soon.
+
+* `AAAI'24` **Curvature-Invariant Adversarial Attacks for 3D Point Clouds**.
+
+  Jianping Zhang, **Wenwei Gu**, Yizhan Huang, Zhihan Jiang, Weibin Wu and Michael Lyu
+
+  In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, Volume 38, Number 7, February 2024
+
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28542)]
+  [[Code](https://github.com/curvature-invariant/curvature-invariant)]
+  [[DOI](https://doi.org/10.1609/aaai.v38i7.28542)]
+  [[BibTex](https://wenweigu.github.io/publications/aaai24/aaai24-bibtex.txt)]
+
+
+* `TSE'22` **Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?**.
+
+  Yun Peng, Shuqing Li, **Wenwei Gu**, Yichen Li, Wenxuan Wang, Cuiyun Gao and Michael R. Lyu
+
+  In *IEEE Transactions on Software Engineering (TSE)*, Volume 49, Issue 4, April 2023
+
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/9851934)]
+  [[Code](https://github.com/JohnnyPeng18/APIBench)]
+  [[DOI](https://doi.org/10.1109/TSE.2022.3197063)]
+  [[BibTex](https://wenweigu.github.io/publications/tse22/tse22-bibtex.txt)]
+
+
+# 🥇 Honors and Awards
+- *06/2021* Excellent Undergraduate Thesis Award, Huazhong University of Science and Technology
+- *09/2019* National Scholarship, Ministry of Education of the People's Republic of China
+- *12/2018* First Price, The Chinese Mathematics Competitions, China Society for Industrial and Applied Mathematics
+- *09/2018* Excellent Student Cadre, Huazhong University of Science and Technology
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+![CUHK Logo](https://wenweigu.github.io/images/CUHK.png) *08/2021 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
+![HUST Logo](https://wenweigu.github.io/images/HUST.png) *09/2017 - 06/2021*, B.S. in Electronic Information Engineering (Excellent Plan Class), Huazhong University of Science and Technology, Wuhan, China 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Teaching Assistant
+- *Spring, 2023*, ENGG2780A/ESTR2020: Statistics for Engineers
+- *Spring, 2022*, ENGG2602: Engineering Practicum
+- *Fall, 2021*, AIST1110: Introduction to Computing using Python
+
+# 💼 Service
+- Reviewer: TSE'23
+- Sub-reviewer: ICSE'25, FSE'24, ISSRE'24, ISSTA'24, ESEC/FSE'24, ISSRE'23, DSN'23, ISSRE'22, srds'22, ESEC/FSE'22
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *01/2022 - present*, [Huawei Cloud](https://www.huaweicloud.com/), Shenzhen, China.
