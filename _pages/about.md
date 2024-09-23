@@ -24,6 +24,7 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 - *09/2024*: One paper was accepted to TOSEM (Journal-first Paper). 🎉 
 - *07/2024*: One paper was accepted to ISSRE 2024 (Research Track). 🎉 
 
+
 # 📝 Publications 
 
 * `TOSEM'24` **Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features**.
@@ -75,22 +76,26 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 - *12/2018* First Price, The Chinese Mathematics Competitions, China Society for Industrial and Applied Mathematics
 - *09/2018* Excellent Student Cadre Award, Huazhong University of Science and Technology
 
+
 # 📖 Educations
   ![CUHK Logo](https://wenweigu.github.io/images/CUHK.png){:width="30" height="30"} *08/2021 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
 
   ![HUST Logo](https://wenweigu.github.io/images/HUST.png){:width="30" height="30"} *09/2017 - 06/2021*, B.S. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China 
+
 
 # 💬 Teaching Assistant
 - *Spring, 2023*, ENGG2780A/ESTR2020: Statistics for Engineers
 - *Spring, 2022*, ENGG2602: Engineering Practicum
 - *Fall, 2021*, AIST1110: Introduction to Computing using Python
 
+
 # 💼 Service
 - Reviewer: TSE'23
-- Sub-reviewer: ICSE'25, FSE'24, ISSRE'24, ISSTA'24, ESEC/FSE'24, ISSRE'23, DSN'23, ISSRE'22, srds'22, ESEC/FSE'22
+- Sub-reviewer: ICSE'25, FSE'24, ISSRE'24, ISSTA'24, ESEC/FSE'24, ISSRE'23, DSN'23, ISSRE'22, SRDS'22, ESEC/FSE'22
 
 
 # 💻 Internships
 - *01/2022 - present*, [Huawei Cloud](https://www.huaweicloud.com/), Shenzhen, China
+
 
 &nbsp;
