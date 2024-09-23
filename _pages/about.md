@@ -27,7 +27,7 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 
 # 📝 Publications 
 
-* `TOSEM'24` **Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features**.
+* `TOSEM'24` **Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features**
 
   **Wenwei Gu**, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, Yuxin Su, Jiazhen Gu, Cong feng, Zengyin Yang, Yongqiang Yang and Michael Lyu
 
@@ -36,7 +36,7 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
   Details will coming soon.
 
 
-* `ISSRE'24` **KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems**.
+* `ISSRE'24` **KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems**
 
   **Wenwei Gu**, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang and Michael Lyu
 
@@ -45,7 +45,7 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
   Details will coming soon.
 
 
-* `AAAI'24` **Curvature-Invariant Adversarial Attacks for 3D Point Clouds**.
+* `AAAI'24` **Curvature-Invariant Adversarial Attacks for 3D Point Clouds**
 
   Jianping Zhang, **Wenwei Gu**, Yizhan Huang, Zhihan Jiang, Weibin Wu and Michael Lyu
 
@@ -57,7 +57,7 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
   [[BibTex](https://wenweigu.github.io/publications/aaai24/aaai24-bibtex.txt)]
 
 
-* `TSE'22` **Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?**.
+* `TSE'22` **Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?**
 
   Yun Peng, Shuqing Li, **Wenwei Gu**, Yichen Li, Wenxuan Wang, Cuiyun Gao and Michael R. Lyu
 
@@ -70,11 +70,11 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 
 
 # 🥇 Honors and Awards
-- *06/2021* Distinguished Undergraduate Thesis Award, Huazhong University of Science and Technology
-- *09/2019* National Scholarship, Ministry of Education of the People's Republic of China
-- *09/2019* Merit Student Award, Huazhong University of Science and Technology
-- *12/2018* First Price, The Chinese Mathematics Competitions, China Society for Industrial and Applied Mathematics
-- *09/2018* Excellent Student Cadre Award, Huazhong University of Science and Technology
+- Distinguished Undergraduate Thesis Award, Huazhong University of Science and Technology *2021*
+- National Scholarship, Ministry of Education of the People's Republic of China *2019*
+- Merit Student Award, Huazhong University of Science and Technology, *2019*
+- First Price, The Chinese Mathematics Competitions, China Society for Industrial and Applied Mathematics, *2018*
+- Excellent Student Cadre Award, Huazhong University of Science and Technology, *2018* 
 
 
 # 📖 Educations
@@ -84,9 +84,9 @@ I am a final year Ph.D. student in Department of Computer Science and Engineerin
 
 
 # 💬 Teaching Assistant
-- *Spring, 2023*, ENGG2780A/ESTR2020: Statistics for Engineers
-- *Spring, 2022*, ENGG2602: Engineering Practicum
-- *Fall, 2021*, AIST1110: Introduction to Computing using Python
+- ENGG2780A/ESTR2020: Statistics for Engineers, *Spring, 2023* 
+- ENGG2602: Engineering Practicum, *Spring, 2022* 
+- AIST1110: Introduction to Computing using Python, *Fall, 2021*
 
 
 # 💼 Service
