@@ -41,7 +41,7 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
 * `TOSEM'24` **Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features**
 
-  **Wenwei Gu**, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, Yuxin Su, Jiazhen Gu, Cong feng, Zengyin Yang, Yongqiang Yang and Michael R. Lyu
+  **Wenwei Gu**, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, Yuxin Su, Jiazhen Gu, Cong feng, Zengyin Yang, Yongqiang Yang and Michael Lyu
 
   In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, October, 2024
 
@@ -50,7 +50,7 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
 * `ISSRE'24` **KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems**
 
-  **Wenwei Gu**, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang and Michael Lyu
+  **Wenwei Gu**, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang and Michael R. Lyu
 
   In *Proceedings of the 35th International Symposium on Software Reliability Engineering (ISSRE)*, October, 2024
 
