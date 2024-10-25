@@ -23,33 +23,44 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
 
 # 🔥 News
+- *10/2024*: One paper was accepted to ICSE 2025 (Research Track). 🎉 
 - *09/2024*: One paper was accepted to TOSEM (Journal-first Paper). 🎉 
 - *07/2024*: One paper was accepted to ISSRE 2024 (Research Track). 🎉 
 
 
 # 📝 Publications 
 
+* `ICSE'25` **ADAMAS: Adaptive Domain-Aware Performance Anomaly Detection in Cloud Service Systems**
+
+  **Wenwei Gu**, Jiazhen Gu, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, Jinxi Kuang, Cong Feng, Yongqiang Yang and Michael R. Lyu
+  
+  In *Proceedings of the IEEE/ACM 47th International Conference on Software Engineering (ICSE)*, April, 2025
+
+  Details will coming soon.
+
+
 * `TOSEM'24` **Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features**
 
-  **Wenwei Gu**, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, Yuxin Su, Jiazhen Gu, Cong feng, Zengyin Yang, Yongqiang Yang and Michael Lyu
+  **Wenwei Gu**, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, Yuxin Su, Jiazhen Gu, Cong feng, Zengyin Yang, Yongqiang Yang and Michael R. Lyu
 
-  In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, September, 2024
+  In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, October, 2024
 
   Details will coming soon.
 
 
 * `ISSRE'24` **KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems**
 
-  **Wenwei Gu**, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang and Michael Lyu
+  **Wenwei Gu**, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang and Michael R. Lyu
 
-  In *Proceedings of the 35th International Symposium on Software Reliability Engineering (ISSRE)*, October 2024
+  In *Proceedings of the 35th International Symposium on Software Reliability Engineering (ISSRE)*, October, 2024
 
-  Details will coming soon.
+  [[Paper](https://wenweigu.github.io/publications/issre24/issre24.pdf)]
+  [[Code](https://github.com/WenweiGu/KPIRoot)]
 
 
 * `AAAI'24` **Curvature-Invariant Adversarial Attacks for 3D Point Clouds**
 
-  Jianping Zhang, **Wenwei Gu**, Yizhan Huang, Zhihan Jiang, Weibin Wu and Michael Lyu
+  Jianping Zhang, **Wenwei Gu**, Yizhan Huang, Zhihan Jiang, Weibin Wu and Michael R. Lyu
 
   In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, Volume 38, Number 7, February 2024
 
