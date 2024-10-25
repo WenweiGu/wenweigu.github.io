@@ -19,7 +19,7 @@ redirect_from:
 
 I am a final year Ph.D. student at Department of Computer Science and Engineering, The Chinese University of Hong Kong, supervised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). Previously, I obtained my Bachelor's degree from Huazhong University of Science and Technology, in 2021. My research focuses on **reliability engineering in cloud systems and LLM systems** based on observability data, especially performance monitoring metrics. 
 
-Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are interested in my research topics. 🥷
+Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are interested in my research topics.
 
 
 # 🔥 News
@@ -50,7 +50,7 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
 * `ISSRE'24` **KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems**
 
-  **Wenwei Gu**, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang and Michael R. Lyu
+  **Wenwei Gu**, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang and Michael Lyu
 
   In *Proceedings of the 35th International Symposium on Software Reliability Engineering (ISSRE)*, October, 2024
 
