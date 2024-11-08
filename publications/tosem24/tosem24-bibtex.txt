@@ -1,0 +1,6 @@
+@article{guidentifying,
+  title={Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features},
+  author={Gu, Wenwei and Liu, Jinyang and Chen, Zhuangbin and Zhang, Jianping and Su, Yuxin and Gu, Jiazhen and Feng, Cong and Yang, Zengyin and Yang, Yongqiang and Lyu, Michael R},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  publisher={ACM New York, NY}
+}

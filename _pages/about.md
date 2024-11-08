@@ -45,7 +45,10 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
   In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, October, 2024
 
-  Details will coming soon.
+  [[Paper](https://wenweigu.github.io/publications/tosem24/tosem24.pdf)]
+  [[Code](https://github.com/WenweiGu/ISOLATE)]
+  [[DOI](https://dl.acm.org/doi/10.1145/3702978)]
+  [[BibTex](https://wenweigu.github.io/publications/tosem24/tosem24-bibtex.txt)]
 
 
 * `ISSRE'24` **KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems**
