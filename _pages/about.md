@@ -59,6 +59,8 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
   [[Paper](https://wenweigu.github.io/publications/issre24/issre24.pdf)]
   [[Code](https://github.com/WenweiGu/KPIRoot)]
+  [[DOI](https://ieeexplore.ieee.org/document/10771281)]
+  [[BibTex](https://wenweigu.github.io/publications/tosem24/tosem24-bibtex.txt)]
 
 
 * `AAAI'24` **Curvature-Invariant Adversarial Attacks for 3D Point Clouds**
