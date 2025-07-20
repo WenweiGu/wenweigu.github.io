@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D degree at the Chinese University of Hong Kong in 2025, supervised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). Previously, I obtained my Bachelor's degree from Huazhong University of Science and Technology, in 2021. My research focuses on **reliability engineering in cloud systems** based on observability data, especially performance monitoring metrics. 
+I am an Assistant Professor in College of Software, Nankai University (NKU). Prior to that, I received my Ph.D degree at the Chinese University of Hong Kong in 2025, supervised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). Previously, I obtained my Bachelor's degree from Huazhong University of Science and Technology in 2021. My research focuses on **reliability engineering in cloud systems** based on observability data, especially performance monitoring metrics. 
 
 Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are interested in my research topics.
 
