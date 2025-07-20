@@ -1,0 +1,7 @@
+@article{zhong2025logupdater,
+  title={LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements},
+  author={Zhong, Renyi and Li, Yichen and Kuang, Jinxi and Gu, Wenwei and Huo, Yintong and Lyu, Michael R},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  year={2025},
+  publisher={ACM New York, NY}
+}

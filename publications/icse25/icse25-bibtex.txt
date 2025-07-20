@@ -1,0 +1,8 @@
+@inproceedings{gu2025adamas,
+  title={ADAMAS: Adaptive Domain-Aware Performance Anomaly Detection in Cloud Service Systems},
+  author={Gu, Wenwei and Gu, Jiazhen and Liu, Jinyang and Chen, Zhuangbin and Zhang, Jianping and Kuang, Jinxi and Feng, Cong and Yang, Yongqiang and Lyu, Michael R},
+  booktitle={2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)},
+  pages={621--621},
+  year={2025},
+  organization={IEEE Computer Society}
+}
