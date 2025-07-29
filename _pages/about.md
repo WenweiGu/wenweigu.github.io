@@ -110,7 +110,7 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
   [[BibTex](https://wenweigu.github.io/publications/aaai24/aaai24-bibtex.txt)]
 
 
-* `TSE'22` **Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?**
+* `TSE` **Revisiting, Benchmarking and Exploring API Recommendation: How Far Are We?**
 
   Yun Peng, Shuqing Li, **Wenwei Gu**, Yichen Li, Wenxuan Wang, Cuiyun Gao and Michael R. Lyu
 
@@ -149,7 +149,7 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
 
 # 💼 Service
-- Reviewer: TSE'25, Scientific Reports'25, TSE'23
+- Reviewer: AAAI'26, TSE'25, Scientific Reports'25, TSE'23
 - Sub-reviewer: ASE'25, DSN'25, ICSE'25, FSE'24, ISSRE'24, ISSTA'24, ESEC/FSE'24, ISSRE'23, DSN'23, ISSRE'22, SRDS'22, ESEC/FSE'22
 
 &nbsp;
