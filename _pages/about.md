@@ -110,7 +110,7 @@ Please feel free to drop me an [email](mailto:wwgu@nankai.edu.cn) if you are int
   [[Paper](https://wenweigu.github.io/publications/tosem25/tosem25-3.pdf)]
   [[Code](  https://anonymous.4open.science/r/Logging_Empirical_Study-9E54/)]
   [[DOI](https://dl.acm.org/doi/abs/10.1145/3773287)]
-  [[BibTex](https://wenweigu.github.io/publications/emse25/tosem25-3-bibtex.txt)]
+  [[BibTex](https://wenweigu.github.io/publications/tosem25/tosem25-3-bibtex.txt)]
 
 * `EMSE'26` **KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems**
   
@@ -120,7 +120,7 @@ Please feel free to drop me an [email](mailto:wwgu@nankai.edu.cn) if you are int
 
   [[Paper](https://wenweigu.github.io/publications/emse26/emse26.pdf)]
   [[DOI](https://link.springer.com/article/10.1007/s10664-025-10769-0)]
-  [[BibTex](https://wenweigu.github.io/publications/emse25/emse-bibtex.txt)]
+  [[BibTex](https://wenweigu.github.io/publications/emse25/emse26-bibtex.txt)]
 
 * `ASE'25` **Adaptive Performance Regression Detection via Semi-Supervised Siamese Learning**
   
