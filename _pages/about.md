@@ -19,18 +19,65 @@ redirect_from:
 
 I am an Assistant Professor in the College of Software, Nankai University (NKU). Prior to that, I received my Ph.D degree at the Chinese University of Hong Kong in 2025, supervised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/). I obtained my Bachelor's degree from Huazhong University of Science and Technology in 2021. My research focuses on **reliability engineering in cloud systems** based on observability data, especially performance monitoring metrics. 
 
-Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are interested in my research topics.
+Please feel free to drop me an [email](mailto:wwgu@nankai.edu.cn) if you are interested in my research topics.
 
 
 # 🔥 News
 - *02/2026*: Serving as **Technical Chair** for CCF International AIOps Challenge '26 and **Publicity Chair** for ChinaSoft '26! 🚀
-- *11/2025*: One Paper was accepted to EMSE.
+- *11/2025*: One Paper was accepted to EMSE. 🎉
 - *10/2025*: Three papers were accepted to ISSRE 2025 (Research Track), and one received the **Best Paper Runner-up Award**! 🏆
 - *09/2025*: One paper was accepted to ASE 2025 (Industry Track). 🎉
 - *05/2025*: Two paper was accepted to DSN 2025 (Industry Track). 🎉
 - *10/2024*: One paper was accepted to ICSE 2025 (Research Track). 🎉 
 - *09/2024*: One paper was accepted to TOSEM. 🎉 
 - *07/2024*: One paper was accepted to ISSRE 2024 (Research Track). 🎉 
+
+# 🥇 Honors and Awards
+- **Best Paper Runner-up Award**, The 36th International Symposium on Software Reliability Engineering (ISSRE), *2025* 🏆
+- Distinguished Undergraduate Thesis Award, Huazhong University of Science and Technology, *2021*
+- National Scholarship, Ministry of Education of the People's Republic of China, *2019*
+- Merit Student Award, Huazhong University of Science and Technology, *2019*
+- First Price, The Chinese Mathematics Competitions, China Society for Industrial and Applied Mathematics, *2018*
+- Excellent Student Cadre Award, Huazhong University of Science and Technology, *2018* 
+
+# 💻 Work Experience 
+  ![NKU Logo](https://wenweigu.github.io/images/NKU.png){:width="30" height="30"} *09/2025 - present*, Assistant Professor, Nankai University, Tianjin, China 
+
+  ![Huawei Logo](https://wenweigu.github.io/images/Huawei.png){:width="30" height="30"} *02/2025 - 06/2025*, Research Intern, Huawei Hong Kong Research Center, Hong Kong SAR, China
+
+  ![Huawei Logo](https://wenweigu.github.io/images/Huawei.png){:width="30" height="30"} *01/2022 - 01/2025*, Intern, Huawei Cloud, Shenzhen, China
+
+# 📖 Educations
+  ![CUHK Logo](https://wenweigu.github.io/images/CUHK.png){:width="30" height="30"} *08/2021 - 07/2025*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
+
+  ![HUST Logo](https://wenweigu.github.io/images/HUST.png){:width="30" height="30"} *09/2017 - 06/2021*, B.S. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China 
+
+
+# 💬 Teaching Experience
+
+**Lecturer (Nankai University)**
+- SOFT0166: Computer Network, *Fall 2025* 
+- 03812246: Frontier of Software Testing and Maintenance, *Fall 2025* 
+
+**Teaching Assistant (CUHK)**
+- ENGG2780A: Statistics for Engineers, *Spring, 2023* 
+- ENGG2602: Engineering Practicum, *Spring, 2022* 
+- AIST1110: Introduction to Computing using Python, *Fall, 2021*
+
+
+# 💼 Academic Service
+
+**Organizing Committee**
+- **Technical Chair**: CCF International AIOps Challenge 26
+- **Publicity Chair**: ChinaSoft 26
+
+**Program Committee**
+- **PC Member**: ISSRE 26
+- **Shadow PC Member**: EuroSys 26
+
+**Reviewer / Sub-reviewer**
+- **Conferences**: SIGCOMM'26, KDD'26, AAAI'26, ASE'25, ICSE'25, ACL'25, ICME'25, FSE'24, ISSRE'24, ISSTA'24, ESEC/FSE'24, ISSRE'23, DSN'23, ISSRE'22, ESEC/FSE'22
+- **Journals**: TSE, TOSEM, EMSE, TIFS, TSC, TNNLS, FCS, Scientific Reports
 
 
 # 📝 Publications 
@@ -60,10 +107,10 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
   
   In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026
 
-  [[Paper](https://wenweigu.github.io/publications/tosem25/tosem-3.pdf)]
+  [[Paper](https://wenweigu.github.io/publications/tosem25/tosem25-3.pdf)]
   [[Code](  https://anonymous.4open.science/r/Logging_Empirical_Study-9E54/)]
   [[DOI](https://dl.acm.org/doi/abs/10.1145/3773287)]
-  [[BibTex](https://wenweigu.github.io/publications/emse25/tosem-3-bibtex.txt)]
+  [[BibTex](https://wenweigu.github.io/publications/emse25/tosem25-3-bibtex.txt)]
 
 * `EMSE'26` **KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems**
   
@@ -206,53 +253,5 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
   [[Code](https://github.com/JohnnyPeng18/APIBench)]
   [[DOI](https://doi.org/10.1109/TSE.2022.3197063)]
   [[BibTex](https://wenweigu.github.io/publications/tse22/tse22-bibtex.txt)]
-
-
-# 🥇 Honors and Awards
-- **Best Paper Runner-up Award**, The 36th International Symposium on Software Reliability Engineering (ISSRE), *2025* 🏆
-- Distinguished Undergraduate Thesis Award, Huazhong University of Science and Technology, *2021*
-- National Scholarship, Ministry of Education of the People's Republic of China, *2019*
-- Merit Student Award, Huazhong University of Science and Technology, *2019*
-- First Price, The Chinese Mathematics Competitions, China Society for Industrial and Applied Mathematics, *2018*
-- Excellent Student Cadre Award, Huazhong University of Science and Technology, *2018* 
-
-# 💻 Work Experience 
-  ![NKU Logo](https://wenweigu.github.io/images/NKU.png){:width="30" height="30"} *09/2025 - present*, Assistant Professor, Nankai University, Tianjin, China 
-
-  ![Huawei Logo](https://wenweigu.github.io/images/Huawei.png){:width="30" height="30"} *02/2025 - 06/2025*, Research Intern, Huawei Hong Kong Research Center, Hong Kong SAR, China
-
-  ![Huawei Logo](https://wenweigu.github.io/images/Huawei.png){:width="30" height="30"} *01/2022 - 01/2025*, Intern, Huawei Cloud, Shenzhen, China
-
-# 📖 Educations
-  ![CUHK Logo](https://wenweigu.github.io/images/CUHK.png){:width="30" height="30"} *08/2021 - 07/2025*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China 
-
-  ![HUST Logo](https://wenweigu.github.io/images/HUST.png){:width="30" height="30"} *09/2017 - 06/2021*, B.S. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China 
-
-
-# 💬 Teaching Experience
-
-**Lecturer (Nankai University)**
-- [SOFT0166]: Computer Network, *Fall 2025* 
-- [03812246]: Frontier of Software Testing and Maintenance, *Fall 2025* 
-
-**Teaching Assistant (CUHK)**
-- [ENGG2780A]: Statistics for Engineers, *Spring, 2023* 
-- [ENGG2602]: Engineering Practicum, *Spring, 2022* 
-- [AIST1110]: Introduction to Computing using Python, *Fall, 2021*
-
-
-# 💼 Academic Service
-
-**Organizing Committee**
-- **Technical Chair**: CCF International AIOps Challenge 26
-- **Publicity Chair**: ChinaSoft 26
-
-**Program Committee**
-- **PC Member**: ISSRE 26
-- **Shadow PC Member**: EuroSys 26
-
-**Reviewer / Sub-reviewer**
-- **Conferences**: SIGCOMM'26, KDD'26, AAAI'26, ASE'25, ICSE'25, ACL'25, ICME'25, FSE'24, ISSRE'24, ISSTA'24, ESEC/FSE'24, ISSRE'23, DSN'23, ISSRE'22, ESEC/FSE'22
-- **Journals**: TSE, TOSEM, EMSE, TIFS, TSC, TNNLS, FCS, Scientific Reports
 
 &nbsp;
