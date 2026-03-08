@@ -1,0 +1,8 @@
+@inproceedings{cui2025aetherlog,
+  title={AetherLog: Log-based Root Cause Analysis by Integrating Large Language Models with Knowledge Graphs},
+  author={Cui, Tianyu and Fu, Ruowei and Liu, Changchang and Ji, Yuhe and Gu, Wenwei and Zhang, Shenglin and Sun, Yongqian and Pei, Dan},
+  booktitle={2025 IEEE 36th International Symposium on Software Reliability Engineering (ISSRE)},
+  pages={49--60},
+  year={2025},
+  organization={IEEE}
+}

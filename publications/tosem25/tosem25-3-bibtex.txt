@@ -1,0 +1,6 @@
+@article{zhong2025larger,
+  title={Larger is not always better: Exploring small open-source language models in logging statement generation},
+  author={Zhong, Renyi and Li, Yichen and Yu, Guangba and Gu, Wenwei and Kuang, Jinxi and Huo, Yintong and Lyu, Michael R},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  publisher={ACM New York, NY}
+}

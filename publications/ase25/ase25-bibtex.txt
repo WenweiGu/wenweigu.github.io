@@ -1,0 +1,8 @@
+@inproceedings{sun2025adaptive,
+  title={Adaptive Performance Regression Detection Using A Semi-Supervised Siamese Network},
+  author={Sun, Yongqian and Li, Mengyao and Xiong, Xiao and Tao, Lei and Zuo, Yimin and Gu, Wenwei and Zhang, Shenglin and Kuang, Junhua and Luo, Yu and Zhuang, Huandong and others},
+  booktitle={2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={3498--3509},
+  year={2025},
+  organization={IEEE}
+}

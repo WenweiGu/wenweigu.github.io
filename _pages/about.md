@@ -23,13 +23,99 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
 
 # 🔥 News
-- *05/2025*: One paper was accepted to DSN 2025 (Industry Track). 🎉
+- *02/2026*: Serving as **Technical Chair** for CCF International AIOps Challenge '26 and **Publicity Chair** for ChinaSoft '26! 🚀
+- *11/2025*: One Paper was accepted to EMSE.
+- *10/2025*: Three papers were accepted to ISSRE 2025 (Research Track), and one received the **Best Paper Runner-up Award**! 🏆
+- *09/2025*: One paper was accepted to ASE 2025 (Industry Track). 🎉
+- *05/2025*: Two paper was accepted to DSN 2025 (Industry Track). 🎉
 - *10/2024*: One paper was accepted to ICSE 2025 (Research Track). 🎉 
-- *09/2024*: One paper was accepted to TOSEM (Journal-first Paper). 🎉 
+- *09/2024*: One paper was accepted to TOSEM. 🎉 
 - *07/2024*: One paper was accepted to ISSRE 2024 (Research Track). 🎉 
 
 
 # 📝 Publications 
+
+
+* `ICPC'26` **A Multi-Agent Framework for the End-to-End Automated Logging**
+  
+  Renyi Zhong, Yintong Huo, **Wenwei Gu**, Yichen Li, and Michael R. Lyu
+  
+  In *Proceedings of the 34th IEEE/ACM International Conference on Program Comprehension (ICPC)*, 2026
+
+* `ICSE-SEIP'26` **When LLMs Listen to Experts: Accurate Failure Diagnosis in Operating Systems**
+  
+  Yongxin Zhao, Shenglin Zhang, Yuxin Sun, **Wenwei Gu**, Yongqian Sun, Luping Wang, Li Shi, Cheng Huang, Guodong Yang, Liping Zhang, and Dan Pei
+  
+  In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)*, 2026
+
+* `ICSE-SEIP'26` **PerfScout: An Adaptive Workload Generator in Software Performance Testing**
+  
+  Yongqian Sun, Qingliang Zhang, Xiao Xiong, Mengyao Li, Yimin Zuo, Shenglin Zhang, Xidao Wen, **Wenwei Gu**, Huandong Zhuang, Bowen Deng, Ruiyuan Wan, and Dan Pei
+  
+  In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)*, 2026
+
+* `TOSEM'26` **Larger is Not Always Better: Exploring Small Open-Source Language Models in Logging Statement Generation**
+  
+  Renyi Zhong, Yichen Li, Guangba Yu, **Wenwei Gu**, Jinxi Kuang, Yintong Huo, and Michael R. Lyu
+  
+  In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026
+
+  [[Paper](https://wenweigu.github.io/publications/tosem25/tosem-3.pdf)]
+  [[Code](  https://anonymous.4open.science/r/Logging_Empirical_Study-9E54/)]
+  [[DOI](https://dl.acm.org/doi/abs/10.1145/3773287)]
+  [[BibTex](https://wenweigu.github.io/publications/emse25/tosem-3-bibtex.txt)]
+
+* `EMSE'26` **KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems**
+  
+  **Wenwei Gu**, Renyi Zhong, Guangba Yu, Xinying Sun, Jinyang Liu, Yintong Huo, Zhuangbin Chen, Jianping Zhang, Jiazhen Gu, Yongqiang Yang, and Michael R. Lyu
+  
+  In *Empirical Software Engineering (EMSE)*, 2026
+
+  [[Paper](https://wenweigu.github.io/publications/emse26/emse26.pdf)]
+  [[DOI](https://link.springer.com/article/10.1007/s10664-025-10769-0)]
+  [[BibTex](https://wenweigu.github.io/publications/emse25/emse-bibtex.txt)]
+
+* `ASE'25` **Adaptive Performance Regression Detection via Semi-Supervised Siamese Learning**
+  
+  Yongqian Sun, Mengyao Li, Xiao Xiong, Lei Tao, Yimin Zuo, **Wenwei Gu**, Shenglin Zhang, Junhua Kuang, Yu Luo, Huandong Zhuang, Bowen Deng, and Dan Pei
+  
+  In *Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2025
+
+  [[Paper](https://wenweigu.github.io/publications/ase25/ase25.pdf)]
+  [[DOI](https://ieeexplore.ieee.org/abstract/document/11334319)]
+  [[BibTex](https://wenweigu.github.io/publications/ase25/ase25-bibtex.txt)]
+
+* `ISSRE'25` **Too Many Cooks: Assessing the Need for Multi-Source Data in Microservice Failure Diagnosis**
+  
+  Shenglin Zhang, Xiaoyu Feng, Runzhou Wang, Minghua Ma, **Wenwei Gu**, Yongqian Sun, Zedong Jia, Jinrui Sun, and Dan Pei
+  
+  In *Proceedings of the 36th International Symposium on Software Reliability Engineering (ISSRE)*, 2025 🏆 **Best Paper Runner-up Award**
+
+  [[Paper](https://wenweigu.github.io/publications/issre25/issre25-3.pdf)]
+  [[Code](https://anonymous.4open.science/r/Empirical-Study-on-Multisource-Failure-Diagnosis-49F0)]
+  [[DOI](https://ieeexplore.ieee.org/abstract/document/11229531)]
+  [[BibTex](https://wenweigu.github.io/publications/issre25/issre25-3-bibtex.txt)]
+
+* `ISSRE'25` **AetherLog: Log-based Root Cause Analysis by Integrating Large Language Models with Knowledge Graphs**
+  
+  Tianyu Cui, Ruowei Fu, Changchang Liu, Yuhe Ji, **Wenwei Gu**, Shenglin Zhang, Yongqian Sun, and Dan Pei
+  
+  In *Proceedings of the 36th International Symposium on Software Reliability Engineering (ISSRE)*, 2025
+
+  [[Paper](https://wenweigu.github.io/publications/issre25/issre25-2.pdf)]
+  [[Code](https://github.com/ISSRE25-Submission-56/AetherLog)]
+  [[DOI](https://ieeexplore.ieee.org/abstract/document/11229645)]
+  [[BibTex](https://wenweigu.github.io/publications/issre25/issre25-2-bibtex.txt)]
+
+* `ISSRE'25` **Integrating GraphSAGE and Mamba for Self-Supervised Spatio-Temporal Fault Detection in Microservice Systems**
+  
+  Shenglin Zhang, Yingke Li, Jianjin Tang, Chenyu Zhao, **Wenwei Gu**, Yongqian Sun, and Dan Pei
+  
+  In *Proceedings of the 36th International Symposium on Software Reliability Engineering (ISSRE)*, 2025
+
+  [[Paper](https://wenweigu.github.io/publications/issre25/issre25-1.pdf)]
+  [[DOI](https://ieeexplore.ieee.org/abstract/document/11229513)]
+  [[BibTex](https://wenweigu.github.io/publications/issre25/issre25-1-bibtex.txt)]
 
 * `DSN'25` **Cordial: Cross-row Failure Prediction Method Based on Bank-level Error Locality for HBMs**
   
@@ -37,9 +123,9 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
   In *Proceedings of The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, June, 2025
 
-  [[Paper](https://wenweigu.github.io/publications/dsn25/dsn25.pdf)]
+  [[Paper](https://wenweigu.github.io/publications/dsn25/dsn25-1.pdf)]
   [[DOI](https://ieeexplore.ieee.org/document/11068374)]
-  [[BibTex](https://wenweigu.github.io/publications/dsn25/dsn25-bibtex.txt)]
+  [[BibTex](https://wenweigu.github.io/publications/dsn25/dsn25-1-bibtex.txt)]
 
 * `DSN'25` **LLMPrism: Black-box Performance Diagnosis for Production LLM Training Platforms**
   
@@ -47,9 +133,9 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
   In *Proceedings of The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, June, 2025
 
-  [[Paper](https://wenweigu.github.io/publications/dsn25-1/dsn25-1.pdf)]
+  [[Paper](https://wenweigu.github.io/publications/dsn25/dsn25-2.pdf)]
   [[DOI](https://ieeexplore.ieee.org/document/11068334)]
-  [[BibTex](https://wenweigu.github.io/publications/dsn25-1/dsn25-1-bibtex.txt)]
+  [[BibTex](https://wenweigu.github.io/publications/dsn25/dsn25-2-bibtex.txt)]
 
 * `TOSEM` **LogUpdater: Automated Detection and Repair of Specific Defects in Logging Statements**
 
@@ -57,10 +143,10 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
   In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, April, 2025
 
-  [[Paper](https://wenweigu.github.io/publications/tosem25-1/tosem25-1.pdf)]
+  [[Paper](https://wenweigu.github.io/publications/tosem25/tosem25-2.pdf)]
   [[Code](https://anonymous.4open.science/r/Logupdater-8879/README.md)]
   [[DOI](https://dl.acm.org/doi/10.1145/3731754)]
-  [[BibTex](https://wenweigu.github.io/publications/tosem25-1/tosem25-1-bibtex.txt)]
+  [[BibTex](https://wenweigu.github.io/publications/tosem25/tosem25-2-bibtex.txt)]
 
 * `ICSE'25` **ADAMAS: Adaptive Domain-Aware Performance Anomaly Detection in Cloud Service Systems**
 
@@ -80,10 +166,10 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
   In *ACM Transactions on Software Engineering and Methodology (TOSEM)*, February, 2025
 
-  [[Paper](https://wenweigu.github.io/publications/tosem25/tosem25.pdf)]
+  [[Paper](https://wenweigu.github.io/publications/tosem25/tosem25-1.pdf)]
   [[Code](https://github.com/WenweiGu/ISOLATE)]
   [[DOI](https://dl.acm.org/doi/10.1145/3702978)]
-  [[BibTex](https://wenweigu.github.io/publications/tosem24/tosem24-bibtex.txt)]
+  [[BibTex](https://wenweigu.github.io/publications/tosem25/tosem25-1-bibtex.txt)]
 
 
 * `ISSRE'24` **KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems**
@@ -123,6 +209,7 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
 
 
 # 🥇 Honors and Awards
+- **Best Paper Runner-up Award**, The 36th International Symposium on Software Reliability Engineering (ISSRE), *2025* 🏆
 - Distinguished Undergraduate Thesis Award, Huazhong University of Science and Technology, *2021*
 - National Scholarship, Ministry of Education of the People's Republic of China, *2019*
 - Merit Student Award, Huazhong University of Science and Technology, *2019*
@@ -142,14 +229,30 @@ Please feel free to drop me an [email](mailto:wwgu21@cse.cuhk.edu.hk) if you are
   ![HUST Logo](https://wenweigu.github.io/images/HUST.png){:width="30" height="30"} *09/2017 - 06/2021*, B.S. in Electronic Information Engineering, Huazhong University of Science and Technology, Wuhan, China 
 
 
-# 💬 Teaching Assistant
-- ENGG2780A/ESTR2020: Statistics for Engineers, *Spring, 2023* 
-- ENGG2602: Engineering Practicum, *Spring, 2022* 
-- AIST1110: Introduction to Computing using Python, *Fall, 2021*
+# 💬 Teaching Experience
+
+**Lecturer (Nankai University)**
+- [SOFT0166]: Computer Network, *Fall 2025* 
+- [03812246]: Frontier of Software Testing and Maintenance, *Fall 2025* 
+
+**Teaching Assistant (CUHK)**
+- [ENGG2780A]: Statistics for Engineers, *Spring, 2023* 
+- [ENGG2602]: Engineering Practicum, *Spring, 2022* 
+- [AIST1110]: Introduction to Computing using Python, *Fall, 2021*
 
 
-# 💼 Service
-- Reviewer: AAAI'26, TSE'25, Scientific Reports'25, TSE'23
-- Sub-reviewer: ASE'25, DSN'25, ICSE'25, FSE'24, ISSRE'24, ISSTA'24, ESEC/FSE'24, ISSRE'23, DSN'23, ISSRE'22, SRDS'22, ESEC/FSE'22
+# 💼 Academic Service
+
+**Organizing Committee**
+- **Technical Chair**: CCF International AIOps Challenge 26
+- **Publicity Chair**: ChinaSoft 26
+
+**Program Committee**
+- **PC Member**: ISSRE 26
+- **Shadow PC Member**: EuroSys 26
+
+**Reviewer / Sub-reviewer**
+- **Conferences**: SIGCOMM'26, KDD'26, AAAI'26, ASE'25, ICSE'25, ACL'25, ICME'25, FSE'24, ISSRE'24, ISSTA'24, ESEC/FSE'24, ISSRE'23, DSN'23, ISSRE'22, ESEC/FSE'22
+- **Journals**: TSE, TOSEM, EMSE, TIFS, TSC, TNNLS, FCS, Scientific Reports
 
 &nbsp;

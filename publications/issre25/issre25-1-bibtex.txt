@@ -1,0 +1,8 @@
+@inproceedings{zhang2025integrating,
+  title={Integrating GraphSAGE and Mamba for Self-Supervised Spatio-Temporal Fault Detection in Microservice Systems},
+  author={Zhang, Shenglin and Li, Yingke and Tang, Jianjin and Zhao, Chenyu and Gu, Wenwei and Sun, Yongqian and Pei, Dan},
+  booktitle={2025 IEEE 36th International Symposium on Software Reliability Engineering (ISSRE)},
+  pages={323--334},
+  year={2025},
+  organization={IEEE}
+}

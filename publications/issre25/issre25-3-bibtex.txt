@@ -1,0 +1,8 @@
+@inproceedings{zhang2025too,
+  title={Too Many Cooks: Assessing the Need for Multi-Source Data in Microservice Failure Diagnosis},
+  author={Zhang, Shenglin and Feng, Xiaoyu and Wang, Runzhou and Ma, Minghua and Gu, Wenwei and Sun, Yongqian and Jia, Zedong and Sun, Jinrui and Pei, Dan},
+  booktitle={2025 IEEE 36th International Symposium on Software Reliability Engineering (ISSRE)},
+  pages={1--12},
+  year={2025},
+  organization={IEEE}
+}

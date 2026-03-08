@@ -1,0 +1,10 @@
+@article{gu2026kpiroot+,
+  title={KPIRoot+: An efficient integrated framework for anomaly detection and root cause analysis in large-scale cloud systems},
+  author={Gu, Wenwei and Zhong, Renyi and Yu, Guangba and Sun, Xinying and Liu, Jinyang and Huo, Yintong and Chen, Zhuangbin and Zhang, Jianping and Gu, Jiazhen and Yang, Yongqiang and others},
+  journal={Empirical Software Engineering},
+  volume={31},
+  number={2},
+  pages={28},
+  year={2026},
+  publisher={Springer}
+}
