@@ -72,7 +72,7 @@ Please feel free to drop me an [email](mailto:wwgu@nankai.edu.cn) if you are int
 - **Publicity Chair**: ChinaSoft 26
 
 **Program Committee**
-- **PC Member**: ISSRE 26
+- **PC Member**: ISSRE 26, QRS 26
 - **Shadow PC Member**: EuroSys 26
 
 **Reviewer / Sub-reviewer**
