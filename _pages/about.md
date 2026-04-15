@@ -83,6 +83,18 @@ Please feel free to drop me an [email](mailto:wwgu@nankai.edu.cn) if you are int
 # 📝 Publications 
 
 
+* `FSE'26` **Bridging the Delay: Lag-Aware Spatio-Temporal Causal Inference for Microservice Root Cause Analysis**
+  
+  Shenglin Zhang, Junhua Kuang, Yimeng Zhang, Sibo Xia, Jintao Feng, Jingyu Wang, **Wenwei Gu**, Yongqian Sun, Wei Li, Liping Zhang, and Dan Pei
+  
+  In *Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE)*, Montreal, Canada, June, 2026
+
+* `FSE'26` **Aloha: Localizing Batch Failures in Large-scale Cloud Systems via Contrast Analysis and Human-in-the-Loop Agent**
+  
+  Shenglin Zhang, Yujia Wu, Jinghuan Ren, Yongqian Sun, **Wenwei Gu**, Chaoyun Zhang, Liqun Li, Qingwei Lin, Dongmei Zhang, Saravanakumar Rajmohan, Chetan Bansal, and Minghua Ma
+  
+  In *Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE)*, Montreal, Canada, June, 2026
+
 * `ICPC'26` **A Multi-Agent Framework for the End-to-End Automated Logging**
   
   Renyi Zhong, Yintong Huo, **Wenwei Gu**, Yichen Li, and Michael R. Lyu
